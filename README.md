@@ -16,7 +16,7 @@ This is a project that uses conditional generative adversarial networks (CGANs) 
 
 - Clone this repository or download the files.
 - Run the `Dom-to-Dom-Trans-CGAN.ipynb` notebook in Google Colab or Jupyter Notebook.
-- Follow the instructions in the notebook to load the data, define the model, train the model and test the model.
+- Execute all the cells.
 - See the results of domain-to-domain translation.
 
 ## Acknowledgements
